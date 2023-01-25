@@ -12,6 +12,11 @@ public class Demo
 		System.out.println("Welcome to World");
 	
 	}
+	public void m3()
+	{
+		System.out.println("Welcome to class");
+	
+	}
 	
 	public static void main(String[] args)
 	{
