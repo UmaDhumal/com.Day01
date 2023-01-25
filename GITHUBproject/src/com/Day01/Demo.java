@@ -7,11 +7,6 @@ public class Demo
 		System.out.println("Welcome to CJC");
 	
 	}
-	public void m2()
-	{
-		System.out.println("Hello World");
-	
-	}
 	
 	public static void main(String[] args)
 	{
